@@ -1,0 +1,12 @@
+# Copyright (c) Team OctOS
+#
+# system.prop for jfltexx
+#
+
+# cannot take spaces
+rild.libargs=-d /dev/smd0
+dalvik.vm.dexopt-data-only=1
+
+
+telephony.lteOnGsmDevice=1
+ro.telephony.default_network=9
